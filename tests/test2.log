@@ -1,0 +1,9 @@
+Error at line: 4 | Error type: Duplicate label definition
+Error at line: 5 | Error type: No such label
+Error at line: 6 | Error type: No such label
+Error at line: 7 | Error type: Missing operand
+Error at line: 8 | Error type: Unexpected operand
+Error at line: 9 | Error type: Extra operand
+Error at line: 10 | Error type: Bogus label name
+Error at line: 11 | Error type: Bogus mnemonic
+Error at line: 12 | Error type: Bogus mnemonic
